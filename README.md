@@ -12,7 +12,7 @@ To make sure you are comfortable with the environment we will be using, please r
 • Dashboarding and Data Visualization
 • NLP for text processing, AI/ML Python Basics, Data Analytics, Data Science
 
-Completion of pre-req tasks
+**Completion of pre-req tasks**
 Once you have completed these tasks, make a pull request to this repository with a Markdown file in this format:
 firstname-lastname.md
 I've finished reading through the pre-req docs and ran at least one example AI/ML app on kind on my laptop!
