@@ -1,7 +1,7 @@
 # CodeHouseIndia
 
-This document will serve as guidance for attendees and mentors of VMware CodeHouse 2021.
-The goal of the hackathon will be to create an
+This document will serve as guidance for attendees and mentors of VMware CodeHouse India 2021.
+The goal of the hackathon will be to create an unique model that provides tech giants with one of the best ROI by compiling comprehensive summary using keywords from dynamic data available over internet using web intelligence. During this event, participants will be provided with resources such as training, workshops, and mentorship from experts in the field. They will learn about the AI/ML and how to apply different algorithms it to build modern and secure applications. Participants will present their creation to a panel of VMware judges, with the winning team highlighted in a VMware technology blog.
 
 Aim of the project is “Developing and evaluating informatics tools and frameworks to collect, monitor, analyze, summarize, and visualize data on VMware Social Media Handles and any Technology buzz feed. social media intelligence research requires well-articulated and clearly defined performance measures because much of it must be conducted in application settings with an aim to support decisions”
 
