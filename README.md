@@ -8,8 +8,8 @@ The goal of the hackathon will be to create an unique model with the project bei
 
 To make sure you are comfortable with the environment we will be using, please read through the following documents well in advance:
 
-- Get Started with Social Media Intelligence/ Web-intelligence
-- Data mining and context awareness for social networks
+- [Get Started with Social Media Intelligence/ Web-intelligence](https://github.com/elinaparida/CodeHouseIndia/blob/main/Web%20Intelligence.md)
+- [Data mining and context awareness for social networks](https://github.com/elinaparida/CodeHouseIndia/blob/main/Data%20Mining.md)
 - [Dashboarding and Data Visualization](https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data)
 - [NLP for text processing](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b), [AI/ML Python Basics](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/),  [Data Analytics](https://www.analyticsvidhya.com/blog/2021/05/what-is-big-data-introduction-uses-and-applications/), [Data Science](https://www.guru99.com/data-science-tutorial.html)
 
