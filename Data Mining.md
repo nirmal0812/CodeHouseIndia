@@ -1,5 +1,5 @@
 ## Data mining and context awareness for social networks
--What Is Social Media Scraping? (And Why You Should Do It)
+- What Is Social Media Scraping? (And Why You Should Do It)
 https://scrapingrobot.com/blog/social-media-scraping/
 -Technique for Data mining in social media for analysis
 https://www.javatpoint.com/social-media-data-mining
