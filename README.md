@@ -11,7 +11,7 @@ To make sure you are comfortable with the environment we will be using, please r
 - Get Started with Social Media Intelligence/ Web-intelligence
 - Data mining and context awareness for social networks
 - [Dashboarding and Data Visualization](https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data)
-- [NLP for text processing](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b), [AI/ML Python Basics](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/),  Data Analytics, [Data Science](https://www.guru99.com/data-science-tutorial.html)
+- [NLP for text processing](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b), [AI/ML Python Basics](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/),  [Data Analytics](https://www.analyticsvidhya.com/blog/2021/05/what-is-big-data-introduction-uses-and-applications/), [Data Science](https://www.guru99.com/data-science-tutorial.html)
 
 # Completion of pre-req tasks
 
